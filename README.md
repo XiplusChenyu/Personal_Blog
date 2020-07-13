@@ -3,4 +3,5 @@ SpringBoot + MyBatis Project
 
 # Development
 ## Timeline
-- <i>2020-07-12</i> Environment Building
+#### 2020-07-12
+Environment Building
